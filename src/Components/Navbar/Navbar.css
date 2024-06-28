@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2.0rem;
+    color:beige
+
+}
+.nav-logo{
+    font-size: 2.5rem;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 1.3rem;
+    gap:3rem;
+    cursor: pointer;
+}
+
+.nav-contact{
+    border-radius: 50px;
+    padding: 0.5rem 1.8rem;
+    background:#fff;
+    color:#262626;
+}
